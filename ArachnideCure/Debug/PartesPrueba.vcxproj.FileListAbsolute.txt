@@ -1,0 +1,3 @@
+D:\Downloads\PartesPrueba\PartesPrueba\Debug\PartesPrueba.vcxproj.AssemblyReference.cache
+D:\Downloads\PartesPrueba\PartesPrueba\Debug\PartesPrueba.vcxproj.SuggestedBindingRedirects.cache
+D:\Downloads\PartesPrueba\PartesPrueba\Debug\PartesPrueba.exe
